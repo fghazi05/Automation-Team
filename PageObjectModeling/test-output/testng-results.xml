@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25193" started-at="2016-08-31T18:24:43Z" finished-at="2016-08-31T18:25:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25193" started-at="2016-08-31T18:24:43Z" finished-at="2016-08-31T18:25:08Z">
+      <class name="com.demoaut.newtours.TestScripts.FlightBooking">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.TestScripts.FlightBooking@1753acfe]" name="openBrowser" is-config="true" duration-ms="13433" started-at="2016-08-31T13:24:43Z" finished-at="2016-08-31T13:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="bookTicket()[pri:0, instance:com.demoaut.newtours.TestScripts.FlightBooking@1753acfe]" name="bookTicket" duration-ms="9924" started-at="2016-08-31T13:24:57Z" finished-at="2016-08-31T13:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicket -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.TestScripts.FlightBooking@1753acfe]" name="closeBrowser" is-config="true" duration-ms="1775" started-at="2016-08-31T13:25:07Z" finished-at="2016-08-31T13:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.TestScripts.FlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
