@@ -20,6 +20,7 @@ public class FlightBooking extends BaseTest {
 	private String expected = "Your itinerary has been booked!";
 	private String actual = "";
 
+	//Add a comment to see in the central repo.
 	@Test
 	public void bookTicket() {
 		HomePage hp = new HomePage(driver);// This driver is coming from Base
